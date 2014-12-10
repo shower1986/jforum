@@ -14,7 +14,7 @@
 
 	<tr>
 		<td align="center">
-			<span class="copyright">Powered by <a class="copyright" href="http://www.jforum.net/" target="_blank">JForum <jforum:settings key="version"/></a> &copy; <a class="copyright" href="http://www.jforum.net/team.jsp" target="_blank">JForum Team</a></span>
+			<span class="copyright">Powered by <a class="copyright" href="http://www.helloan.cn/" target="_blank">helloan <jforum:settings key="version"/></a> &copy; <a class="copyright" href="http://www.helloan.cn" target="_blank">helloan.cn</a></span>
 		</td>
 	</tr>
 </table>
